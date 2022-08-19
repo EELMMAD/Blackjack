@@ -31,7 +31,6 @@ public class Card {
         Card card1 = new Card(Suit.CLUBS, JACK);
         Card card2 = new Card(Suit.DIAMONDS, Rank.TEN);
     }
-
     /*
     public int getValue() {
       return   switch (this.rank){
