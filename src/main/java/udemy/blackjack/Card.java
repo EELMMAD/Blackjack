@@ -39,7 +39,7 @@ public class Card {
 
     /*
     public int getValue(){
-        return this.rank.getVaile();
+        return this.rank.getValue();
     }
      */
 }
